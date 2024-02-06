@@ -44,7 +44,7 @@ def calc_adapt_vqe_N2H4(threshold, active_electrons=4, active_orbitals=4):
             break
     return energy_array, circuit
 
-config = [[8,8]]
+config = [[4,6]]
 threshold = 3
 
 for i in range(len(config)):
