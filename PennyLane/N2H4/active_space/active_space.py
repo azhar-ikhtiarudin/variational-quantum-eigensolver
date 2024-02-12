@@ -37,9 +37,10 @@ def calc_adapt_vqe_N2H4(threshold, active_electrons=4, active_orbitals=4):
     for i in range(len(operator_pool)):
         circuit, energy, gradient = opt.step_and_cost(circuit, operator_pool)
         energy_array.append(energy)
-        print("n = {:},  E = {:.8f} H, Largest Gradient = {:.3f}".format(i, energy, gradient))
-        # print(qml.draw(circuit, decimals=None)())
-        print()
+        if i % 3 == 0:
+            print("n = {:},  E = {:.8f} H, Largest Gradient = {:.3f}".format(i, energy, gradient))
+            # print(qml.draw(circuit, decimals=None)())
+            print()
         if gradient < threshold*10^(-threshold):
             break
     return energy_array, circuit
