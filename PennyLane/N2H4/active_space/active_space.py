@@ -26,6 +26,7 @@ def calc_adapt_vqe_N2H4(threshold, active_electrons=4, active_orbitals=4):
     singles_excitations = [qml.SingleExcitation(0.0, x) for x in singles]
     doubles_excitations = [qml.DoubleExcitation(0.0, x) for x in doubles]
     operator_pool = doubles_excitations + singles_excitations   
+
     hf_state = qchem.hf_state(active_electrons, qubits)
     dev = qml.device("default.qubit", wires=qubits)
     @qml.qnode(dev)
@@ -33,6 +34,7 @@ def calc_adapt_vqe_N2H4(threshold, active_electrons=4, active_orbitals=4):
         [qml.PauliX(i) for i in np.nonzero(hf_state)[0]]
         return qml.expval(H)
     energy_array = []
+    
     opt = qml.optimize.AdaptiveOptimizer()
     for i in range(len(operator_pool)):
         circuit, energy, gradient = opt.step_and_cost(circuit, operator_pool)
