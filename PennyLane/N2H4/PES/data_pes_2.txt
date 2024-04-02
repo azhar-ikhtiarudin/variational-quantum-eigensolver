@@ -1,0 +1,1428 @@
+[-0.4 -0.2 -0.1  0.   0.1  0.2  0.4  0.6  0.8  1.   1.2  1.4  1.6  1.8
+  2.   2.2  2.4  2.6  2.8  3.   3.2  3.4  3.6  3.8  4. ]
+Coordinate 0 :  -0.4
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  0.30923  -0.073853  0.098269  0.744853 -0.317624
+ -0.781275  0.659051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -99.68879056 H, Largest Gradient = 0.052
+
+n = 1,  E = -99.68995439 H, Largest Gradient = 0.043
+
+n = 2,  E = -99.69104620 H, Largest Gradient = 0.033
+
+n = 3,  E = -99.69167669 H, Largest Gradient = 0.032
+
+n = 4,  E = -99.69213376 H, Largest Gradient = 0.009
+
+n = 5,  E = -99.69217360 H, Largest Gradient = 0.009
+
+n = 6,  E = -99.69221359 H, Largest Gradient = 0.006
+
+n = 7,  E = -99.69222998 H, Largest Gradient = 0.006
+
+n = 8,  E = -99.69224644 H, Largest Gradient = 0.003
+
+n = 9,  E = -99.69225021 H, Largest Gradient = 0.003
+
+n = 10,  E = -99.69225400 H, Largest Gradient = 0.001
+
+n = 11,  E = -99.69225461 H, Largest Gradient = 0.001
+
+n = 12,  E = -99.69225539 H, Largest Gradient = 0.001
+
+n = 13,  E = -99.69225585 H, Largest Gradient = 0.001
+
+n = 14,  E = -99.69225630 H, Largest Gradient = 0.000
+
+n = 15,  E = -99.69225635 H, Largest Gradient = 0.000
+
+n = 16,  E = -99.69225639 H, Largest Gradient = 0.000
+
+n = 17,  E = -99.69225642 H, Largest Gradient = 0.000
+
+n = 18,  E = -99.69225645 H, Largest Gradient = 0.000
+
+n = 19,  E = -99.69225647 H, Largest Gradient = 0.000
+
+n = 20,  E = -99.69225649 H, Largest Gradient = 0.000
+
+n = 21,  E = -99.69225649 H, Largest Gradient = 0.000
+
+n = 22,  E = -99.69225650 H, Largest Gradient = 0.000
+
+n = 23,  E = -99.69225650 H, Largest Gradient = 0.000
+
+n = 24,  E = -99.69225650 H, Largest Gradient = 0.000
+
+n = 25,  E = -99.69225651 H, Largest Gradient = 0.000
+
+Coordinate 1 :  -0.2
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  0.50923  -0.073853  0.098269  0.944853 -0.317624
+ -0.781275  0.859051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -102.73057498 H, Largest Gradient = 0.045
+
+n = 1,  E = -102.73136388 H, Largest Gradient = 0.038
+
+n = 2,  E = -102.73209946 H, Largest Gradient = 0.031
+
+n = 3,  E = -102.73247463 H, Largest Gradient = 0.031
+
+n = 4,  E = -102.73293605 H, Largest Gradient = 0.010
+
+n = 5,  E = -102.73298570 H, Largest Gradient = 0.010
+
+n = 6,  E = -102.73303546 H, Largest Gradient = 0.005
+
+n = 7,  E = -102.73304669 H, Largest Gradient = 0.005
+
+n = 8,  E = -102.73305794 H, Largest Gradient = 0.005
+
+n = 9,  E = -102.73306897 H, Largest Gradient = 0.005
+
+n = 10,  E = -102.73308002 H, Largest Gradient = 0.001
+
+n = 11,  E = -102.73308063 H, Largest Gradient = 0.001
+
+n = 12,  E = -102.73308105 H, Largest Gradient = 0.001
+
+n = 13,  E = -102.73308137 H, Largest Gradient = 0.001
+
+n = 14,  E = -102.73308169 H, Largest Gradient = 0.000
+
+n = 15,  E = -102.73308178 H, Largest Gradient = 0.000
+
+n = 16,  E = -102.73308187 H, Largest Gradient = 0.000
+
+n = 17,  E = -102.73308192 H, Largest Gradient = 0.000
+
+n = 18,  E = -102.73308197 H, Largest Gradient = 0.000
+
+n = 19,  E = -102.73308202 H, Largest Gradient = 0.000
+
+n = 20,  E = -102.73308212 H, Largest Gradient = 0.000
+
+n = 21,  E = -102.73308221 H, Largest Gradient = 0.000
+
+n = 22,  E = -102.73308226 H, Largest Gradient = 0.000
+
+n = 23,  E = -102.73308229 H, Largest Gradient = 0.000
+
+n = 24,  E = -102.73308232 H, Largest Gradient = 0.000
+
+n = 25,  E = -102.73308234 H, Largest Gradient = 0.000
+
+Coordinate 2 :  -0.1
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  0.60923  -0.073853  0.098269  1.044853 -0.317624
+ -0.781275  0.959051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -103.72485099 H, Largest Gradient = 0.039
+
+n = 1,  E = -103.72543652 H, Largest Gradient = 0.036
+
+n = 2,  E = -103.72605405 H, Largest Gradient = 0.029
+
+n = 3,  E = -103.72645643 H, Largest Gradient = 0.026
+
+n = 4,  E = -103.72672839 H, Largest Gradient = 0.008
+
+n = 5,  E = -103.72675612 H, Largest Gradient = 0.008
+
+n = 6,  E = -103.72678329 H, Largest Gradient = 0.006
+
+n = 7,  E = -103.72679884 H, Largest Gradient = 0.006
+
+n = 8,  E = -103.72681406 H, Largest Gradient = 0.001
+
+n = 9,  E = -103.72681457 H, Largest Gradient = 0.001
+
+n = 10,  E = -103.72681476 H, Largest Gradient = 0.001
+
+n = 11,  E = -103.72681522 H, Largest Gradient = 0.001
+
+n = 12,  E = -103.72681567 H, Largest Gradient = 0.000
+
+n = 13,  E = -103.72681582 H, Largest Gradient = 0.000
+
+n = 14,  E = -103.72681597 H, Largest Gradient = 0.000
+
+n = 15,  E = -103.72681600 H, Largest Gradient = 0.000
+
+n = 16,  E = -103.72681602 H, Largest Gradient = 0.000
+
+n = 17,  E = -103.72681604 H, Largest Gradient = 0.000
+
+n = 18,  E = -103.72681605 H, Largest Gradient = 0.000
+
+n = 19,  E = -103.72681606 H, Largest Gradient = 0.000
+
+n = 20,  E = -103.72681606 H, Largest Gradient = 0.000
+
+n = 21,  E = -103.72681606 H, Largest Gradient = 0.000
+
+n = 22,  E = -103.72681606 H, Largest Gradient = 0.000
+
+n = 23,  E = -103.72681606 H, Largest Gradient = 0.000
+
+n = 24,  E = -103.72681607 H, Largest Gradient = 0.000
+
+n = 25,  E = -103.72681607 H, Largest Gradient = 0.000
+
+Coordinate 3 :  0.0
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  0.70923  -0.073853  0.098269  1.144853 -0.317624
+ -0.781275  1.059051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -104.47765377 H, Largest Gradient = 0.040
+
+n = 1,  E = -104.47823778 H, Largest Gradient = 0.034
+
+n = 2,  E = -104.47876411 H, Largest Gradient = 0.028
+
+n = 3,  E = -104.47911310 H, Largest Gradient = 0.027
+
+n = 4,  E = -104.47938936 H, Largest Gradient = 0.011
+
+n = 5,  E = -104.47943638 H, Largest Gradient = 0.011
+
+n = 6,  E = -104.47948347 H, Largest Gradient = 0.006
+
+n = 7,  E = -104.47949642 H, Largest Gradient = 0.006
+
+n = 8,  E = -104.47950938 H, Largest Gradient = 0.004
+
+n = 9,  E = -104.47951782 H, Largest Gradient = 0.004
+
+n = 10,  E = -104.47952626 H, Largest Gradient = 0.001
+
+n = 11,  E = -104.47952676 H, Largest Gradient = 0.001
+
+n = 12,  E = -104.47952710 H, Largest Gradient = 0.000
+
+n = 13,  E = -104.47952729 H, Largest Gradient = 0.000
+
+n = 14,  E = -104.47952747 H, Largest Gradient = 0.000
+
+n = 15,  E = -104.47952753 H, Largest Gradient = 0.000
+
+n = 16,  E = -104.47952758 H, Largest Gradient = 0.000
+
+n = 17,  E = -104.47952766 H, Largest Gradient = 0.000
+
+n = 18,  E = -104.47952773 H, Largest Gradient = 0.000
+
+n = 19,  E = -104.47952774 H, Largest Gradient = 0.000
+
+n = 20,  E = -104.47952775 H, Largest Gradient = 0.000
+
+n = 21,  E = -104.47952776 H, Largest Gradient = 0.000
+
+n = 22,  E = -104.47952777 H, Largest Gradient = 0.000
+
+n = 23,  E = -104.47952777 H, Largest Gradient = 0.000
+
+n = 24,  E = -104.47952777 H, Largest Gradient = 0.000
+
+n = 25,  E = -104.47952777 H, Largest Gradient = 0.000
+
+Coordinate 4 :  0.1
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  0.80923  -0.073853  0.098269  1.244853 -0.317624
+ -0.781275  1.159051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -105.04623869 H, Largest Gradient = 0.038
+
+n = 1,  E = -105.04676413 H, Largest Gradient = 0.032
+
+n = 2,  E = -105.04721893 H, Largest Gradient = 0.027
+
+n = 3,  E = -105.04752714 H, Largest Gradient = 0.025
+
+n = 4,  E = -105.04774725 H, Largest Gradient = 0.010
+
+n = 5,  E = -105.04778899 H, Largest Gradient = 0.010
+
+n = 6,  E = -105.04783079 H, Largest Gradient = 0.006
+
+n = 7,  E = -105.04784350 H, Largest Gradient = 0.006
+
+n = 8,  E = -105.04785623 H, Largest Gradient = 0.004
+
+n = 9,  E = -105.04786274 H, Largest Gradient = 0.004
+
+n = 10,  E = -105.04786925 H, Largest Gradient = 0.001
+
+n = 11,  E = -105.04786972 H, Largest Gradient = 0.001
+
+n = 12,  E = -105.04787003 H, Largest Gradient = 0.000
+
+n = 13,  E = -105.04787009 H, Largest Gradient = 0.000
+
+n = 14,  E = -105.04787015 H, Largest Gradient = 0.000
+
+n = 15,  E = -105.04787027 H, Largest Gradient = 0.000
+
+n = 16,  E = -105.04787038 H, Largest Gradient = 0.000
+
+n = 17,  E = -105.04787043 H, Largest Gradient = 0.000
+
+n = 18,  E = -105.04787047 H, Largest Gradient = 0.000
+
+n = 19,  E = -105.04787049 H, Largest Gradient = 0.000
+
+n = 20,  E = -105.04787050 H, Largest Gradient = 0.000
+
+n = 21,  E = -105.04787051 H, Largest Gradient = 0.000
+
+n = 22,  E = -105.04787052 H, Largest Gradient = 0.000
+
+n = 23,  E = -105.04787052 H, Largest Gradient = 0.000
+
+n = 24,  E = -105.04787052 H, Largest Gradient = 0.000
+
+n = 25,  E = -105.04787052 H, Largest Gradient = 0.000
+
+Coordinate 5 :  0.2
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  0.90923  -0.073853  0.098269  1.344853 -0.317624
+ -0.781275  1.259051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -105.47403610 H, Largest Gradient = 0.038
+
+n = 1,  E = -105.47453726 H, Largest Gradient = 0.031
+
+n = 2,  E = -105.47493502 H, Largest Gradient = 0.026
+
+n = 3,  E = -105.47520948 H, Largest Gradient = 0.022
+
+n = 4,  E = -105.47538060 H, Largest Gradient = 0.009
+
+n = 5,  E = -105.47541229 H, Largest Gradient = 0.009
+
+n = 6,  E = -105.47544402 H, Largest Gradient = 0.005
+
+n = 7,  E = -105.47545477 H, Largest Gradient = 0.005
+
+n = 8,  E = -105.47546553 H, Largest Gradient = 0.003
+
+n = 9,  E = -105.47546966 H, Largest Gradient = 0.003
+
+n = 10,  E = -105.47547378 H, Largest Gradient = 0.001
+
+n = 11,  E = -105.47547424 H, Largest Gradient = 0.001
+
+n = 12,  E = -105.47547455 H, Largest Gradient = 0.000
+
+n = 13,  E = -105.47547461 H, Largest Gradient = 0.000
+
+n = 14,  E = -105.47547466 H, Largest Gradient = 0.000
+
+n = 15,  E = -105.47547469 H, Largest Gradient = 0.000
+
+n = 16,  E = -105.47547472 H, Largest Gradient = 0.000
+
+n = 17,  E = -105.47547478 H, Largest Gradient = 0.000
+
+n = 18,  E = -105.47547484 H, Largest Gradient = 0.000
+
+n = 19,  E = -105.47547485 H, Largest Gradient = 0.000
+
+n = 20,  E = -105.47547486 H, Largest Gradient = 0.000
+
+n = 21,  E = -105.47547486 H, Largest Gradient = 0.000
+
+n = 22,  E = -105.47547486 H, Largest Gradient = 0.000
+
+n = 23,  E = -105.47547486 H, Largest Gradient = 0.000
+
+n = 24,  E = -105.47547486 H, Largest Gradient = 0.000
+
+n = 25,  E = -105.47547486 H, Largest Gradient = 0.000
+
+Coordinate 6 :  0.4
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  1.10923  -0.073853  0.098269  1.544853 -0.317624
+ -0.781275  1.459051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.03195689 H, Largest Gradient = 0.040
+
+n = 1,  E = -106.03260977 H, Largest Gradient = 0.029
+
+n = 2,  E = -106.03295716 H, Largest Gradient = 0.028
+
+n = 3,  E = -106.03325745 H, Largest Gradient = 0.024
+
+n = 4,  E = -106.03348379 H, Largest Gradient = 0.002
+
+n = 5,  E = -106.03348574 H, Largest Gradient = 0.002
+
+n = 6,  E = -106.03348769 H, Largest Gradient = 0.002
+
+n = 7,  E = -106.03348893 H, Largest Gradient = 0.002
+
+n = 8,  E = -106.03349017 H, Largest Gradient = 0.002
+
+n = 9,  E = -106.03349142 H, Largest Gradient = 0.001
+
+n = 10,  E = -106.03349177 H, Largest Gradient = 0.000
+
+n = 11,  E = -106.03349181 H, Largest Gradient = 0.000
+
+n = 12,  E = -106.03349184 H, Largest Gradient = 0.000
+
+n = 13,  E = -106.03349187 H, Largest Gradient = 0.000
+
+n = 14,  E = -106.03349188 H, Largest Gradient = 0.000
+
+n = 15,  E = -106.03349191 H, Largest Gradient = 0.000
+
+n = 16,  E = -106.03349194 H, Largest Gradient = 0.000
+
+n = 17,  E = -106.03349195 H, Largest Gradient = 0.000
+
+n = 18,  E = -106.03349196 H, Largest Gradient = 0.000
+
+n = 19,  E = -106.03349198 H, Largest Gradient = 0.000
+
+n = 20,  E = -106.03349199 H, Largest Gradient = 0.000
+
+n = 21,  E = -106.03349200 H, Largest Gradient = 0.000
+
+n = 22,  E = -106.03349200 H, Largest Gradient = 0.000
+
+n = 23,  E = -106.03349200 H, Largest Gradient = 0.000
+
+n = 24,  E = -106.03349200 H, Largest Gradient = 0.000
+
+n = 25,  E = -106.03349200 H, Largest Gradient = 0.000
+
+Coordinate 7 :  0.6
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  1.30923  -0.073853  0.098269  1.744853 -0.317624
+ -0.781275  1.659051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.33392879 H, Largest Gradient = 0.042
+
+n = 1,  E = -106.33480537 H, Largest Gradient = 0.037
+
+n = 2,  E = -106.33547975 H, Largest Gradient = 0.025
+
+n = 3,  E = -106.33572365 H, Largest Gradient = 0.023
+
+n = 4,  E = -106.33592369 H, Largest Gradient = 0.003
+
+n = 5,  E = -106.33592758 H, Largest Gradient = 0.001
+
+n = 6,  E = -106.33592814 H, Largest Gradient = 0.001
+
+n = 7,  E = -106.33592866 H, Largest Gradient = 0.001
+
+n = 8,  E = -106.33592918 H, Largest Gradient = 0.001
+
+n = 9,  E = -106.33592939 H, Largest Gradient = 0.001
+
+n = 10,  E = -106.33592960 H, Largest Gradient = 0.000
+
+n = 11,  E = -106.33592964 H, Largest Gradient = 0.000
+
+n = 12,  E = -106.33592969 H, Largest Gradient = 0.000
+
+n = 13,  E = -106.33592974 H, Largest Gradient = 0.000
+
+n = 14,  E = -106.33592979 H, Largest Gradient = 0.000
+
+n = 15,  E = -106.33592983 H, Largest Gradient = 0.000
+
+n = 16,  E = -106.33592987 H, Largest Gradient = 0.000
+
+n = 17,  E = -106.33592988 H, Largest Gradient = 0.000
+
+n = 18,  E = -106.33592988 H, Largest Gradient = 0.000
+
+n = 19,  E = -106.33592988 H, Largest Gradient = 0.000
+
+n = 20,  E = -106.33592988 H, Largest Gradient = 0.000
+
+n = 21,  E = -106.33592988 H, Largest Gradient = 0.000
+
+n = 22,  E = -106.33592988 H, Largest Gradient = 0.000
+
+n = 23,  E = -106.33592988 H, Largest Gradient = 0.000
+
+n = 24,  E = -106.33592988 H, Largest Gradient = 0.000
+
+n = 25,  E = -106.33592988 H, Largest Gradient = 0.000
+
+Coordinate 8 :  0.8
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  1.50923  -0.073853  0.098269  1.944853 -0.317624
+ -0.781275  1.859051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.48733041 H, Largest Gradient = 0.042
+
+n = 1,  E = -106.48839352 H, Largest Gradient = 0.037
+
+n = 2,  E = -106.48921209 H, Largest Gradient = 0.024
+
+n = 3,  E = -106.48941957 H, Largest Gradient = 0.022
+
+n = 4,  E = -106.48960032 H, Largest Gradient = 0.004
+
+n = 5,  E = -106.48960870 H, Largest Gradient = 0.001
+
+n = 6,  E = -106.48960931 H, Largest Gradient = 0.001
+
+n = 7,  E = -106.48961014 H, Largest Gradient = 0.001
+
+n = 8,  E = -106.48961096 H, Largest Gradient = 0.001
+
+n = 9,  E = -106.48961113 H, Largest Gradient = 0.001
+
+n = 10,  E = -106.48961130 H, Largest Gradient = 0.001
+
+n = 11,  E = -106.48961147 H, Largest Gradient = 0.001
+
+n = 12,  E = -106.48961164 H, Largest Gradient = 0.000
+
+n = 13,  E = -106.48961169 H, Largest Gradient = 0.000
+
+n = 14,  E = -106.48961174 H, Largest Gradient = 0.000
+
+n = 15,  E = -106.48961180 H, Largest Gradient = 0.000
+
+n = 16,  E = -106.48961182 H, Largest Gradient = 0.000
+
+n = 17,  E = -106.48961184 H, Largest Gradient = 0.000
+
+n = 18,  E = -106.48961185 H, Largest Gradient = 0.000
+
+n = 19,  E = -106.48961185 H, Largest Gradient = 0.000
+
+n = 20,  E = -106.48961185 H, Largest Gradient = 0.000
+
+n = 21,  E = -106.48961186 H, Largest Gradient = 0.000
+
+n = 22,  E = -106.48961186 H, Largest Gradient = 0.000
+
+n = 23,  E = -106.48961186 H, Largest Gradient = 0.000
+
+n = 24,  E = -106.48961186 H, Largest Gradient = 0.000
+
+n = 25,  E = -106.48961186 H, Largest Gradient = 0.000
+
+Coordinate 9 :  1.0
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  1.70923  -0.073853  0.098269  2.144853 -0.317624
+ -0.781275  2.059051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.55491210 H, Largest Gradient = 0.041
+
+n = 1,  E = -106.55616446 H, Largest Gradient = 0.034
+
+n = 2,  E = -106.55704684 H, Largest Gradient = 0.023
+
+n = 3,  E = -106.55724471 H, Largest Gradient = 0.021
+
+n = 4,  E = -106.55739776 H, Largest Gradient = 0.004
+
+n = 5,  E = -106.55741159 H, Largest Gradient = 0.001
+
+n = 6,  E = -106.55741223 H, Largest Gradient = 0.001
+
+n = 7,  E = -106.55741300 H, Largest Gradient = 0.001
+
+n = 8,  E = -106.55741343 H, Largest Gradient = 0.001
+
+n = 9,  E = -106.55741386 H, Largest Gradient = 0.000
+
+n = 10,  E = -106.55741396 H, Largest Gradient = 0.000
+
+n = 11,  E = -106.55741406 H, Largest Gradient = 0.000
+
+n = 12,  E = -106.55741413 H, Largest Gradient = 0.000
+
+n = 13,  E = -106.55741420 H, Largest Gradient = 0.000
+
+n = 14,  E = -106.55741424 H, Largest Gradient = 0.000
+
+n = 15,  E = -106.55741429 H, Largest Gradient = 0.000
+
+n = 16,  E = -106.55741433 H, Largest Gradient = 0.000
+
+n = 17,  E = -106.55741433 H, Largest Gradient = 0.000
+
+n = 18,  E = -106.55741433 H, Largest Gradient = 0.000
+
+n = 19,  E = -106.55741433 H, Largest Gradient = 0.000
+
+n = 20,  E = -106.55741434 H, Largest Gradient = 0.000
+
+n = 21,  E = -106.55741434 H, Largest Gradient = 0.000
+
+n = 22,  E = -106.55741434 H, Largest Gradient = 0.000
+
+n = 23,  E = -106.55741434 H, Largest Gradient = 0.000
+
+n = 24,  E = -106.55741434 H, Largest Gradient = 0.000
+
+n = 25,  E = -106.55741434 H, Largest Gradient = 0.000
+
+Coordinate 10 :  1.2
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  1.90923  -0.073853  0.098269  2.344853 -0.317624
+ -0.781275  2.259051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.57292204 H, Largest Gradient = 0.040
+
+n = 1,  E = -106.57439451 H, Largest Gradient = 0.031
+
+n = 2,  E = -106.57529339 H, Largest Gradient = 0.023
+
+n = 3,  E = -106.57548687 H, Largest Gradient = 0.019
+
+n = 4,  E = -106.57562060 H, Largest Gradient = 0.004
+
+n = 5,  E = -106.57563769 H, Largest Gradient = 0.002
+
+n = 6,  E = -106.57564106 H, Largest Gradient = 0.001
+
+n = 7,  E = -106.57564171 H, Largest Gradient = 0.001
+
+n = 8,  E = -106.57564195 H, Largest Gradient = 0.000
+
+n = 9,  E = -106.57564206 H, Largest Gradient = 0.000
+
+n = 10,  E = -106.57564216 H, Largest Gradient = 0.000
+
+n = 11,  E = -106.57564220 H, Largest Gradient = 0.000
+
+n = 12,  E = -106.57564225 H, Largest Gradient = 0.000
+
+n = 13,  E = -106.57564229 H, Largest Gradient = 0.000
+
+n = 14,  E = -106.57564232 H, Largest Gradient = 0.000
+
+n = 15,  E = -106.57564239 H, Largest Gradient = 0.000
+
+n = 16,  E = -106.57564246 H, Largest Gradient = 0.000
+
+n = 17,  E = -106.57564248 H, Largest Gradient = 0.000
+
+n = 18,  E = -106.57564249 H, Largest Gradient = 0.000
+
+n = 19,  E = -106.57564249 H, Largest Gradient = 0.000
+
+n = 20,  E = -106.57564249 H, Largest Gradient = 0.000
+
+n = 21,  E = -106.57564250 H, Largest Gradient = 0.000
+
+n = 22,  E = -106.57564250 H, Largest Gradient = 0.000
+
+n = 23,  E = -106.57564250 H, Largest Gradient = 0.000
+
+n = 24,  E = -106.57564251 H, Largest Gradient = 0.000
+
+n = 25,  E = -106.57564251 H, Largest Gradient = 0.000
+
+Coordinate 11 :  1.4
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  2.10923  -0.073853  0.098269  2.544853 -0.317624
+ -0.781275  2.459051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.56216976 H, Largest Gradient = 0.040
+
+n = 1,  E = -106.56393177 H, Largest Gradient = 0.028
+
+n = 2,  E = -106.56480894 H, Largest Gradient = 0.023
+
+n = 3,  E = -106.56500230 H, Largest Gradient = 0.019
+
+n = 4,  E = -106.56512278 H, Largest Gradient = 0.004
+
+n = 5,  E = -106.56513701 H, Largest Gradient = 0.003
+
+n = 6,  E = -106.56514613 H, Largest Gradient = 0.001
+
+n = 7,  E = -106.56514679 H, Largest Gradient = 0.001
+
+n = 8,  E = -106.56514774 H, Largest Gradient = 0.001
+
+n = 9,  E = -106.56514833 H, Largest Gradient = 0.000
+
+n = 10,  E = -106.56514889 H, Largest Gradient = 0.000
+
+n = 11,  E = -106.56514910 H, Largest Gradient = 0.000
+
+n = 12,  E = -106.56514914 H, Largest Gradient = 0.000
+
+n = 13,  E = -106.56514917 H, Largest Gradient = 0.000
+
+n = 14,  E = -106.56514920 H, Largest Gradient = 0.000
+
+n = 15,  E = -106.56514922 H, Largest Gradient = 0.000
+
+n = 16,  E = -106.56514930 H, Largest Gradient = 0.000
+
+n = 17,  E = -106.56514937 H, Largest Gradient = 0.000
+
+n = 18,  E = -106.56514938 H, Largest Gradient = 0.000
+
+n = 19,  E = -106.56514939 H, Largest Gradient = 0.000
+
+n = 20,  E = -106.56514941 H, Largest Gradient = 0.000
+
+n = 21,  E = -106.56514942 H, Largest Gradient = 0.000
+
+n = 22,  E = -106.56514943 H, Largest Gradient = 0.000
+
+n = 23,  E = -106.56514943 H, Largest Gradient = 0.000
+
+n = 24,  E = -106.56514943 H, Largest Gradient = 0.000
+
+n = 25,  E = -106.56514944 H, Largest Gradient = 0.000
+
+Coordinate 12 :  1.6
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  2.30923  -0.073853  0.098269  2.744853 -0.317624
+ -0.781275  2.659051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.53477993 H, Largest Gradient = 0.041
+
+n = 1,  E = -106.53697960 H, Largest Gradient = 0.025
+
+n = 2,  E = -106.53779358 H, Largest Gradient = 0.024
+
+n = 3,  E = -106.53799088 H, Largest Gradient = 0.018
+
+n = 4,  E = -106.53810243 H, Largest Gradient = 0.003
+
+n = 5,  E = -106.53811445 H, Largest Gradient = 0.003
+
+n = 6,  E = -106.53812426 H, Largest Gradient = 0.001
+
+n = 7,  E = -106.53812493 H, Largest Gradient = 0.001
+
+n = 8,  E = -106.53812662 H, Largest Gradient = 0.001
+
+n = 9,  E = -106.53812961 H, Largest Gradient = 0.001
+
+n = 10,  E = -106.53813244 H, Largest Gradient = 0.001
+
+n = 11,  E = -106.53813282 H, Largest Gradient = 0.001
+
+n = 12,  E = -106.53813299 H, Largest Gradient = 0.001
+
+n = 13,  E = -106.53813316 H, Largest Gradient = 0.000
+
+n = 14,  E = -106.53813371 H, Largest Gradient = 0.000
+
+n = 15,  E = -106.53813384 H, Largest Gradient = 0.000
+
+n = 16,  E = -106.53813396 H, Largest Gradient = 0.000
+
+n = 17,  E = -106.53813446 H, Largest Gradient = 0.000
+
+n = 18,  E = -106.53813457 H, Largest Gradient = 0.000
+
+n = 19,  E = -106.53813462 H, Largest Gradient = 0.000
+
+n = 20,  E = -106.53813466 H, Largest Gradient = 0.000
+
+n = 21,  E = -106.53813477 H, Largest Gradient = 0.000
+
+n = 22,  E = -106.53813488 H, Largest Gradient = 0.000
+
+n = 23,  E = -106.53813490 H, Largest Gradient = 0.000
+
+n = 24,  E = -106.53813492 H, Largest Gradient = 0.000
+
+n = 25,  E = -106.53813492 H, Largest Gradient = 0.000
+
+Coordinate 13 :  1.8
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  2.50923  -0.073853  0.098269  2.944853 -0.317624
+ -0.781275  2.859051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.49816996 H, Largest Gradient = 0.044
+
+n = 1,  E = -106.50115287 H, Largest Gradient = 0.024
+
+n = 2,  E = -106.50135797 H, Largest Gradient = 0.021
+
+n = 3,  E = -106.50205015 H, Largest Gradient = 0.018
+
+n = 4,  E = -106.50215591 H, Largest Gradient = 0.004
+
+n = 5,  E = -106.50217829 H, Largest Gradient = 0.002
+
+n = 6,  E = -106.50219169 H, Largest Gradient = 0.002
+
+n = 7,  E = -106.50220417 H, Largest Gradient = 0.001
+
+n = 8,  E = -106.50220484 H, Largest Gradient = 0.001
+
+n = 9,  E = -106.50220845 H, Largest Gradient = 0.001
+
+n = 10,  E = -106.50221161 H, Largest Gradient = 0.001
+
+n = 11,  E = -106.50221216 H, Largest Gradient = 0.001
+
+n = 12,  E = -106.50221271 H, Largest Gradient = 0.001
+
+n = 13,  E = -106.50221323 H, Largest Gradient = 0.001
+
+n = 14,  E = -106.50221375 H, Largest Gradient = 0.001
+
+n = 15,  E = -106.50221445 H, Largest Gradient = 0.001
+
+n = 16,  E = -106.50221542 H, Largest Gradient = 0.001
+
+n = 17,  E = -106.50221632 H, Largest Gradient = 0.000
+
+n = 18,  E = -106.50221652 H, Largest Gradient = 0.000
+
+n = 19,  E = -106.50221660 H, Largest Gradient = 0.000
+
+n = 20,  E = -106.50221669 H, Largest Gradient = 0.000
+
+n = 21,  E = -106.50221699 H, Largest Gradient = 0.000
+
+n = 22,  E = -106.50221726 H, Largest Gradient = 0.000
+
+n = 23,  E = -106.50221733 H, Largest Gradient = 0.000
+
+n = 24,  E = -106.50221734 H, Largest Gradient = 0.000
+
+n = 25,  E = -106.50221741 H, Largest Gradient = 0.000
+
+Coordinate 14 :  2.0
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  2.70923  -0.073853  0.098269  3.144853 -0.317624
+ -0.781275  3.059051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.45719820 H, Largest Gradient = 0.051
+
+n = 1,  E = -106.46188588 H, Largest Gradient = 0.025
+
+n = 2,  E = -106.46210400 H, Largest Gradient = 0.018
+
+n = 3,  E = -106.46221216 H, Largest Gradient = 0.016
+
+n = 4,  E = -106.46268444 H, Largest Gradient = 0.007
+
+n = 5,  E = -106.46276751 H, Largest Gradient = 0.005
+
+n = 6,  E = -106.46283652 H, Largest Gradient = 0.004
+
+n = 7,  E = -106.46289923 H, Largest Gradient = 0.003
+
+n = 8,  E = -106.46292284 H, Largest Gradient = 0.003
+
+n = 9,  E = -106.46293857 H, Largest Gradient = 0.003
+
+n = 10,  E = -106.46296259 H, Largest Gradient = 0.002
+
+n = 11,  E = -106.46297252 H, Largest Gradient = 0.002
+
+n = 12,  E = -106.46297444 H, Largest Gradient = 0.002
+
+n = 13,  E = -106.46297619 H, Largest Gradient = 0.002
+
+n = 14,  E = -106.46297710 H, Largest Gradient = 0.002
+
+n = 15,  E = -106.46298554 H, Largest Gradient = 0.001
+
+n = 16,  E = -106.46298698 H, Largest Gradient = 0.001
+
+n = 17,  E = -106.46298843 H, Largest Gradient = 0.001
+
+n = 18,  E = -106.46299200 H, Largest Gradient = 0.001
+
+n = 19,  E = -106.46299623 H, Largest Gradient = 0.001
+
+n = 20,  E = -106.46299980 H, Largest Gradient = 0.001
+
+n = 21,  E = -106.46299998 H, Largest Gradient = 0.001
+
+n = 22,  E = -106.46300135 H, Largest Gradient = 0.001
+
+n = 23,  E = -106.46300208 H, Largest Gradient = 0.001
+
+n = 24,  E = -106.46300349 H, Largest Gradient = 0.001
+
+n = 25,  E = -106.46300378 H, Largest Gradient = 0.001
+
+Coordinate 15 :  2.2
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  2.90923  -0.073853  0.098269  3.344853 -0.317624
+ -0.781275  3.259051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.41518618 H, Largest Gradient = 0.067
+
+n = 1,  E = -106.42433093 H, Largest Gradient = 0.026
+
+n = 2,  E = -106.42456370 H, Largest Gradient = 0.020
+
+n = 3,  E = -106.42539780 H, Largest Gradient = 0.018
+
+n = 4,  E = -106.42550357 H, Largest Gradient = 0.011
+
+n = 5,  E = -106.42590908 H, Largest Gradient = 0.010
+
+n = 6,  E = -106.42626399 H, Largest Gradient = 0.009
+
+n = 7,  E = -106.42644330 H, Largest Gradient = 0.008
+
+n = 8,  E = -106.42665947 H, Largest Gradient = 0.007
+
+n = 9,  E = -106.42683658 H, Largest Gradient = 0.005
+
+n = 10,  E = -106.42688739 H, Largest Gradient = 0.005
+
+n = 11,  E = -106.42698671 H, Largest Gradient = 0.005
+
+n = 12,  E = -106.42707081 H, Largest Gradient = 0.004
+
+n = 13,  E = -106.42710517 H, Largest Gradient = 0.004
+
+n = 14,  E = -106.42714315 H, Largest Gradient = 0.004
+
+n = 15,  E = -106.42719682 H, Largest Gradient = 0.004
+
+n = 16,  E = -106.42720602 H, Largest Gradient = 0.004
+
+n = 17,  E = -106.42721434 H, Largest Gradient = 0.004
+
+n = 18,  E = -106.42725926 H, Largest Gradient = 0.003
+
+n = 19,  E = -106.42728013 H, Largest Gradient = 0.003
+
+n = 20,  E = -106.42730458 H, Largest Gradient = 0.003
+
+n = 21,  E = -106.42733430 H, Largest Gradient = 0.003
+
+n = 22,  E = -106.42733715 H, Largest Gradient = 0.003
+
+n = 23,  E = -106.42736194 H, Largest Gradient = 0.003
+
+n = 24,  E = -106.42736694 H, Largest Gradient = 0.003
+
+n = 25,  E = -106.42737192 H, Largest Gradient = 0.003
+
+Coordinate 16 :  2.4
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  3.10923  -0.073853  0.098269  3.544853 -0.317624
+ -0.781275  3.459051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.37436464 H, Largest Gradient = 0.097
+
+n = 1,  E = -106.39568548 H, Largest Gradient = 0.034
+
+n = 2,  E = -106.39819376 H, Largest Gradient = 0.024
+
+n = 3,  E = -106.39840373 H, Largest Gradient = 0.021
+
+n = 4,  E = -106.40012540 H, Largest Gradient = 0.020
+
+n = 5,  E = -106.40155367 H, Largest Gradient = 0.019
+
+n = 6,  E = -106.40234662 H, Largest Gradient = 0.017
+
+n = 7,  E = -106.40244227 H, Largest Gradient = 0.017
+
+n = 8,  E = -106.40345784 H, Largest Gradient = 0.017
+
+n = 9,  E = -106.40410813 H, Largest Gradient = 0.016
+
+n = 10,  E = -106.40501557 H, Largest Gradient = 0.017
+
+n = 11,  E = -106.40563621 H, Largest Gradient = 0.013
+
+n = 12,  E = -106.40628257 H, Largest Gradient = 0.013
+
+n = 13,  E = -106.40671415 H, Largest Gradient = 0.013
+
+n = 14,  E = -106.40731490 H, Largest Gradient = 0.014
+
+n = 15,  E = -106.40771415 H, Largest Gradient = 0.010
+
+n = 16,  E = -106.40811391 H, Largest Gradient = 0.011
+
+n = 17,  E = -106.40842577 H, Largest Gradient = 0.010
+
+n = 18,  E = -106.40880901 H, Largest Gradient = 0.011
+
+n = 19,  E = -106.40905549 H, Largest Gradient = 0.009
+
+n = 20,  E = -106.40924102 H, Largest Gradient = 0.009
+
+n = 21,  E = -106.40954124 H, Largest Gradient = 0.008
+
+n = 22,  E = -106.40958655 H, Largest Gradient = 0.008
+
+n = 23,  E = -106.40981407 H, Largest Gradient = 0.008
+
+n = 24,  E = -106.40996244 H, Largest Gradient = 0.008
+
+n = 25,  E = -106.41001130 H, Largest Gradient = 0.008
+
+Coordinate 17 :  2.6
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  3.30923  -0.073853  0.098269  3.744853 -0.317624
+ -0.781275  3.659051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.33611028 H, Largest Gradient = 0.141
+
+n = 1,  E = -106.38275814 H, Largest Gradient = 0.051
+
+n = 2,  E = -106.38838119 H, Largest Gradient = 0.034
+
+n = 3,  E = -106.39270836 H, Largest Gradient = 0.030
+
+n = 4,  E = -106.39621306 H, Largest Gradient = 0.030
+
+n = 5,  E = -106.39803613 H, Largest Gradient = 0.026
+
+n = 6,  E = -106.40050628 H, Largest Gradient = 0.024
+
+n = 7,  E = -106.40198163 H, Largest Gradient = 0.025
+
+n = 8,  E = -106.40423182 H, Largest Gradient = 0.023
+
+n = 9,  E = -106.40530553 H, Largest Gradient = 0.020
+
+n = 10,  E = -106.40676328 H, Largest Gradient = 0.019
+
+n = 11,  E = -106.40773574 H, Largest Gradient = 0.019
+
+n = 12,  E = -106.40910977 H, Largest Gradient = 0.017
+
+n = 13,  E = -106.40922288 H, Largest Gradient = 0.016
+
+n = 14,  E = -106.40975480 H, Largest Gradient = 0.015
+
+n = 15,  E = -106.40983241 H, Largest Gradient = 0.015
+
+n = 16,  E = -106.41062182 H, Largest Gradient = 0.016
+
+n = 17,  E = -106.41129913 H, Largest Gradient = 0.015
+
+n = 18,  E = -106.41208070 H, Largest Gradient = 0.011
+
+n = 19,  E = -106.41234579 H, Largest Gradient = 0.011
+
+n = 20,  E = -106.41271391 H, Largest Gradient = 0.012
+
+n = 21,  E = -106.41327684 H, Largest Gradient = 0.011
+
+n = 22,  E = -106.41337116 H, Largest Gradient = 0.010
+
+n = 23,  E = -106.41376892 H, Largest Gradient = 0.011
+
+n = 24,  E = -106.41386600 H, Largest Gradient = 0.009
+
+n = 25,  E = -106.41409191 H, Largest Gradient = 0.009
+
+Coordinate 18 :  2.8
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  3.50923  -0.073853  0.098269  3.944853 -0.317624
+ -0.781275  3.859051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.30114943 H, Largest Gradient = 0.181
+
+n = 1,  E = -106.38053537 H, Largest Gradient = 0.066
+
+n = 2,  E = -106.38945812 H, Largest Gradient = 0.039
+
+n = 3,  E = -106.39528322 H, Largest Gradient = 0.036
+
+n = 4,  E = -106.40010725 H, Largest Gradient = 0.033
+
+n = 5,  E = -106.40221163 H, Largest Gradient = 0.029
+
+n = 6,  E = -106.40528337 H, Largest Gradient = 0.025
+
+n = 7,  E = -106.40759049 H, Largest Gradient = 0.022
+
+n = 8,  E = -106.40891909 H, Largest Gradient = 0.020
+
+n = 9,  E = -106.41046992 H, Largest Gradient = 0.021
+
+n = 10,  E = -106.41133597 H, Largest Gradient = 0.019
+
+n = 11,  E = -106.41264107 H, Largest Gradient = 0.017
+
+n = 12,  E = -106.41350286 H, Largest Gradient = 0.016
+
+n = 13,  E = -106.41439209 H, Largest Gradient = 0.014
+
+n = 14,  E = -106.41446150 H, Largest Gradient = 0.013
+
+n = 15,  E = -106.41509222 H, Largest Gradient = 0.012
+
+n = 16,  E = -106.41554115 H, Largest Gradient = 0.013
+
+n = 17,  E = -106.41591265 H, Largest Gradient = 0.011
+
+n = 18,  E = -106.41597025 H, Largest Gradient = 0.011
+
+n = 19,  E = -106.41642613 H, Largest Gradient = 0.010
+
+n = 20,  E = -106.41652227 H, Largest Gradient = 0.010
+
+n = 21,  E = -106.41661273 H, Largest Gradient = 0.010
+
+n = 22,  E = -106.41695341 H, Largest Gradient = 0.011
+
+n = 23,  E = -106.41729866 H, Largest Gradient = 0.008
+
+n = 24,  E = -106.41754744 H, Largest Gradient = 0.007
+
+n = 25,  E = -106.41769289 H, Largest Gradient = 0.008
+
+Coordinate 19 :  3.0
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  3.70923  -0.073853  0.098269  4.144853 -0.317624
+ -0.781275  4.059051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -106.26976501 H, Largest Gradient = 0.210
+
+n = 1,  E = -106.38000185 H, Largest Gradient = 0.078
+
+n = 2,  E = -106.39179470 H, Largest Gradient = 0.038
+
+n = 3,  E = -106.39740953 H, Largest Gradient = 0.036
+
+n = 4,  E = -106.40221054 H, Largest Gradient = 0.032
+
+n = 5,  E = -106.40414353 H, Largest Gradient = 0.028
+
+n = 6,  E = -106.40698276 H, Largest Gradient = 0.025
+
+n = 7,  E = -106.40921462 H, Largest Gradient = 0.018
+
+n = 8,  E = -106.41035909 H, Largest Gradient = 0.017
+
+n = 9,  E = -106.41118429 H, Largest Gradient = 0.018
+
+n = 10,  E = -106.41234616 H, Largest Gradient = 0.016
+
+n = 11,  E = -106.41287061 H, Largest Gradient = 0.014
+
+n = 12,  E = -106.41294093 H, Largest Gradient = 0.013
+
+n = 13,  E = -106.41353603 H, Largest Gradient = 0.013
+
+n = 14,  E = -106.41407627 H, Largest Gradient = 0.013
+
+n = 15,  E = -106.41468744 H, Largest Gradient = 0.009
+
+n = 16,  E = -106.41476724 H, Largest Gradient = 0.009
+
+n = 17,  E = -106.41507755 H, Largest Gradient = 0.010
+
+n = 18,  E = -106.41537027 H, Largest Gradient = 0.009
+
+n = 19,  E = -106.41568691 H, Largest Gradient = 0.010
+
+n = 20,  E = -106.41577632 H, Largest Gradient = 0.009
+
+n = 21,  E = -106.41581376 H, Largest Gradient = 0.008
+
+n = 22,  E = -106.41594029 H, Largest Gradient = 0.007
+
+n = 23,  E = -106.41609980 H, Largest Gradient = 0.008
+
+n = 24,  E = -106.41630525 H, Largest Gradient = 0.007
+
+n = 25,  E = -106.41646088 H, Largest Gradient = 0.006
+
+Coordinate 20 :  3.2
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  3.90923  -0.073853  0.098269  4.344853 -0.317624
+ -0.781275  4.259051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -105.82979839 H, Largest Gradient = 0.093
+
+n = 1,  E = -105.97339962 H, Largest Gradient = 0.248
+
+n = 2,  E = -106.28619511 H, Largest Gradient = 0.184
+
+n = 3,  E = -106.35354049 H, Largest Gradient = 0.049
+
+n = 4,  E = -106.35778474 H, Largest Gradient = 0.044
+
+n = 5,  E = -106.36175092 H, Largest Gradient = 0.018
+
+n = 6,  E = -106.36322670 H, Largest Gradient = 0.017
+
+n = 7,  E = -106.36458429 H, Largest Gradient = 0.016
+
+n = 8,  E = -106.36582751 H, Largest Gradient = 0.015
+
+n = 9,  E = -106.36696122 H, Largest Gradient = 0.015
+
+n = 10,  E = -106.36712443 H, Largest Gradient = 0.015
+
+n = 11,  E = -106.36815508 H, Largest Gradient = 0.014
+
+n = 12,  E = -106.36855064 H, Largest Gradient = 0.014
+
+n = 13,  E = -106.36948370 H, Largest Gradient = 0.013
+
+n = 14,  E = -106.37032431 H, Largest Gradient = 0.013
+
+n = 15,  E = -106.37107935 H, Largest Gradient = 0.012
+
+n = 16,  E = -106.37175566 H, Largest Gradient = 0.011
+
+n = 17,  E = -106.37235991 H, Largest Gradient = 0.011
+
+n = 18,  E = -106.37242670 H, Largest Gradient = 0.011
+
+n = 19,  E = -106.37296234 H, Largest Gradient = 0.010
+
+n = 20,  E = -106.37344314 H, Largest Gradient = 0.010
+
+n = 21,  E = -106.37391182 H, Largest Gradient = 0.009
+
+n = 22,  E = -106.37432764 H, Largest Gradient = 0.009
+
+n = 23,  E = -106.37468533 H, Largest Gradient = 0.009
+
+n = 24,  E = -106.37504473 H, Largest Gradient = 0.008
+
+n = 25,  E = -106.37536250 H, Largest Gradient = 0.008
+
+Coordinate 21 :  3.4
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  4.10923  -0.073853  0.098269  4.544853 -0.317624
+ -0.781275  4.459051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -105.77145582 H, Largest Gradient = 0.059
+
+n = 1,  E = -105.78757325 H, Largest Gradient = 0.054
+
+n = 2,  E = -105.80017294 H, Largest Gradient = 0.051
+
+n = 3,  E = -105.80106231 H, Largest Gradient = 0.046
+
+n = 4,  E = -105.80972651 H, Largest Gradient = 0.037
+
+n = 5,  E = -105.81516821 H, Largest Gradient = 0.029
+
+n = 6,  E = -105.82630006 H, Largest Gradient = 0.070
+
+n = 7,  E = -105.88490612 H, Largest Gradient = 0.150
+
+n = 8,  E = -106.04343185 H, Largest Gradient = 0.184
+
+n = 9,  E = -106.15393018 H, Largest Gradient = 0.098
+
+n = 10,  E = -106.17659805 H, Largest Gradient = 0.037
+
+n = 11,  E = -106.17951708 H, Largest Gradient = 0.026
+
+n = 12,  E = -106.18270881 H, Largest Gradient = 0.026
+
+n = 13,  E = -106.18413512 H, Largest Gradient = 0.025
+
+n = 14,  E = -106.18716858 H, Largest Gradient = 0.024
+
+n = 15,  E = -106.18994741 H, Largest Gradient = 0.033
+
+n = 16,  E = -106.19229387 H, Largest Gradient = 0.024
+
+n = 17,  E = -106.19497149 H, Largest Gradient = 0.023
+
+n = 18,  E = -106.19742786 H, Largest Gradient = 0.033
+
+n = 19,  E = -106.19975229 H, Largest Gradient = 0.022
+
+n = 20,  E = -106.20213364 H, Largest Gradient = 0.021
+
+n = 21,  E = -106.20432832 H, Largest Gradient = 0.031
+
+n = 22,  E = -106.20633229 H, Largest Gradient = 0.021
+
+n = 23,  E = -106.20846457 H, Largest Gradient = 0.020
+
+n = 24,  E = -106.21043956 H, Largest Gradient = 0.028
+
+n = 25,  E = -106.21209977 H, Largest Gradient = 0.020
+
+Coordinate 22 :  3.6
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  4.30923  -0.073853  0.098269  4.744853 -0.317624
+ -0.781275  4.659051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -105.75978522 H, Largest Gradient = 0.059
+
+n = 1,  E = -105.77568577 H, Largest Gradient = 0.053
+
+n = 2,  E = -105.78785838 H, Largest Gradient = 0.045
+
+n = 3,  E = -105.79608718 H, Largest Gradient = 0.036
+
+n = 4,  E = -105.80118932 H, Largest Gradient = 0.028
+
+n = 5,  E = -105.80418424 H, Largest Gradient = 0.023
+
+n = 6,  E = -105.80446463 H, Largest Gradient = 0.023
+
+n = 7,  E = -105.80474455 H, Largest Gradient = 0.021
+
+n = 8,  E = -105.80639990 H, Largest Gradient = 0.016
+
+n = 9,  E = -105.80732064 H, Largest Gradient = 0.012
+
+n = 10,  E = -105.80782752 H, Largest Gradient = 0.009
+
+n = 11,  E = -105.80810495 H, Largest Gradient = 0.008
+
+n = 12,  E = -105.80835667 H, Largest Gradient = 0.008
+
+n = 13,  E = -105.80836674 H, Largest Gradient = 0.008
+
+n = 14,  E = -105.80858823 H, Largest Gradient = 0.007
+
+n = 15,  E = -105.80875894 H, Largest Gradient = 0.007
+
+n = 16,  E = -105.80877606 H, Largest Gradient = 0.006
+
+n = 17,  E = -105.80879066 H, Largest Gradient = 0.006
+
+n = 18,  E = -105.80881417 H, Largest Gradient = 0.006
+
+n = 19,  E = -105.80883748 H, Largest Gradient = 0.006
+
+n = 20,  E = -105.80896467 H, Largest Gradient = 0.006
+
+n = 21,  E = -105.80909340 H, Largest Gradient = 0.005
+
+n = 22,  E = -105.80920259 H, Largest Gradient = 0.005
+
+n = 23,  E = -105.80930234 H, Largest Gradient = 0.005
+
+n = 24,  E = -105.80940224 H, Largest Gradient = 0.004
+
+n = 25,  E = -105.80946526 H, Largest Gradient = 0.004
+
+Coordinate 23 :  3.8
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  4.50923  -0.073853  0.098269  4.944853 -0.317624
+ -0.781275  4.859051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -105.75203464 H, Largest Gradient = 0.059
+
+n = 1,  E = -105.76768772 H, Largest Gradient = 0.052
+
+n = 2,  E = -105.77930109 H, Largest Gradient = 0.043
+
+n = 3,  E = -105.78694748 H, Largest Gradient = 0.034
+
+n = 4,  E = -105.79159112 H, Largest Gradient = 0.026
+
+n = 5,  E = -105.79427337 H, Largest Gradient = 0.024
+
+n = 6,  E = -105.79456561 H, Largest Gradient = 0.024
+
+n = 7,  E = -105.79485735 H, Largest Gradient = 0.020
+
+n = 8,  E = -105.79631792 H, Largest Gradient = 0.015
+
+n = 9,  E = -105.79712157 H, Largest Gradient = 0.011
+
+n = 10,  E = -105.79755977 H, Largest Gradient = 0.008
+
+n = 11,  E = -105.79779752 H, Largest Gradient = 0.006
+
+n = 12,  E = -105.79782026 H, Largest Gradient = 0.006
+
+n = 13,  E = -105.79784299 H, Largest Gradient = 0.006
+
+n = 14,  E = -105.79797425 H, Largest Gradient = 0.004
+
+n = 15,  E = -105.79804515 H, Largest Gradient = 0.004
+
+n = 16,  E = -105.79807267 H, Largest Gradient = 0.003
+
+n = 17,  E = -105.79810542 H, Largest Gradient = 0.002
+
+n = 18,  E = -105.79812309 H, Largest Gradient = 0.002
+
+n = 19,  E = -105.79813827 H, Largest Gradient = 0.002
+
+n = 20,  E = -105.79815172 H, Largest Gradient = 0.002
+
+n = 21,  E = -105.79815362 H, Largest Gradient = 0.002
+
+n = 22,  E = -105.79817326 H, Largest Gradient = 0.002
+
+n = 23,  E = -105.79820671 H, Largest Gradient = 0.003
+
+n = 24,  E = -105.79826368 H, Largest Gradient = 0.004
+
+n = 25,  E = -105.79836065 H, Largest Gradient = 0.005
+
+Coordinate 24 :  4.0
+[-0.709237 -0.074105 -0.098086 -1.059027  0.833991 -0.385824 -1.144828
+ -0.315623  0.782097  4.70923  -0.073853  0.098269  5.144853 -0.317624
+ -0.781275  5.059051  0.834961  0.383721]
+Total number of excitations = 26
+n = 0,  E = -105.74575262 H, Largest Gradient = 0.059
+
+n = 1,  E = -105.76118861 H, Largest Gradient = 0.051
+
+n = 2,  E = -105.77228475 H, Largest Gradient = 0.042
+
+n = 3,  E = -105.77939578 H, Largest Gradient = 0.033
+
+n = 4,  E = -105.78362093 H, Largest Gradient = 0.025
+
+n = 5,  E = -105.78601887 H, Largest Gradient = 0.024
+
+n = 6,  E = -105.78630007 H, Largest Gradient = 0.024
+
+n = 7,  E = -105.78658083 H, Largest Gradient = 0.018
+
+n = 8,  E = -105.78786794 H, Largest Gradient = 0.014
+
+n = 9,  E = -105.78856726 H, Largest Gradient = 0.010
+
+n = 10,  E = -105.78894422 H, Largest Gradient = 0.007
+
+n = 11,  E = -105.78914655 H, Largest Gradient = 0.006
+
+n = 12,  E = -105.78916801 H, Largest Gradient = 0.006
+
+n = 13,  E = -105.78918947 H, Largest Gradient = 0.006
+
+n = 14,  E = -105.78925037 H, Largest Gradient = 0.005
+
+n = 15,  E = -105.78934671 H, Largest Gradient = 0.004
+
+n = 16,  E = -105.78939822 H, Largest Gradient = 0.003
+
+n = 17,  E = -105.78942573 H, Largest Gradient = 0.002
+
+n = 18,  E = -105.78945989 H, Largest Gradient = 0.003
+
+n = 19,  E = -105.78951785 H, Largest Gradient = 0.004
+
+n = 20,  E = -105.78961617 H, Largest Gradient = 0.005
+
+n = 21,  E = -105.78978278 H, Largest Gradient = 0.007
+
+n = 22,  E = -105.79006460 H, Largest Gradient = 0.009
+
+n = 23,  E = -105.79053996 H, Largest Gradient = 0.011
+
+n = 24,  E = -105.79133788 H, Largest Gradient = 0.014
+
+n = 25,  E = -105.79266641 H, Largest Gradient = 0.019
+
+
