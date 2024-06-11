@@ -1,4 +1,4 @@
-Matplotlib is building the font cache; this may take a moment.
+gitMatplotlib is building the font cache; this may take a moment.
 Configuration:  3 2 2
 Total number of excitations = 3
 n = 0,  E = -109.73067811 H, Largest Gradient = 0.031
